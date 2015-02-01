@@ -1,0 +1,3 @@
+== RichOnRails.com Active Merchant Example
+
+See http://richonrails.com/articles/credit-card-processing-with-active-merchant for details.
